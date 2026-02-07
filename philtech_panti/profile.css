@@ -1,0 +1,25 @@
+html {
+    background: linear-gradient(to right, #DE6D6D, #BA2F2F, #961515);
+}
+
+#girl {
+    float: left;
+    position: relative;
+    left: 80px;
+    top: 5px;
+    border-radius: 50%;
+}
+
+.profilee {
+    padding: 25px;
+    background-color: #FFF8DC;
+    box-sizing: border-box;
+    width: 600px;
+    height: 400px;
+    align-content: center;
+    text-align: center;
+    border-radius: 30px;
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
